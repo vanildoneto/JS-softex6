@@ -1,0 +1,11 @@
+{
+  "name": "notasaluno",
+  "version": "1.0.0",
+  "description": "testenodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanildo",
+  "license": "ISC"
+}
